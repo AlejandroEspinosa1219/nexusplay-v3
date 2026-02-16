@@ -1,0 +1,23 @@
+{
+    "name": "NexusPlay - Premium Subscriptions",
+    "short_name": "NexusPlay",
+    "description": "Tu portal de entretenimiento definitivo. Netflix, Disney+, HBO y más al mejor precio de Colombia.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#050508",
+    "theme_color": "#00f3ff",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "entertainment",
+        "shopping"
+    ],
+    "lang": "es-CO"
+}
