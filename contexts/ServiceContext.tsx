@@ -222,10 +222,10 @@ const INITIAL_TESTIMONIALS: Testimonial[] = [
 ];
 
 const INITIAL_PAYMENT_CONFIG: PaymentConfig = {
-  whatsappNumber: '573226564760',
+  whatsappNumber: '573234754109',
   qrImageUrl: 'https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=Bancolombia',
-  nequiNumber: '3226564760',
-  daviplataNumber: '3226564760',
+  nequiNumber: '3234754109',
+  daviplataNumber: '3234754109',
   bankName: 'Bancolombia',
   bankAccountType: 'Ahorros',
   bankAccountNumber: '000-000000-00',
