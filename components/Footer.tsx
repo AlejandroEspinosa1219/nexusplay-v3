@@ -105,7 +105,7 @@ const Footer: React.FC<FooterProps> = ({ onOpenAdmin }) => {
 
             <div className="flex flex-col items-center gap-3">
               <button
-                onClick={() => window.open(`https://wa.me/${paymentConfig.whatsappNumber}?text=${encodeURIComponent('Hola, estoy interesado en comprar la página web NexusPlay. ¿Cuál es el precio?')}`, '_blank')}
+                onClick={() => window.open(`https://wa.me/573234754109?text=${encodeURIComponent('Hola, estoy interesado en comprar la página web NexusPlay. ¿Cuál es el precio?')}`, '_blank')}
                 className="bg-gradient-to-r from-yellow-400 to-amber-500 text-black px-8 py-3 rounded-xl font-black text-sm hover:shadow-[0_0_30px_rgba(255,215,0,0.4)] transition-all hover:scale-105 flex items-center gap-2"
               >
                 <i className="fa-brands fa-whatsapp text-lg"></i> Consultar Precio
